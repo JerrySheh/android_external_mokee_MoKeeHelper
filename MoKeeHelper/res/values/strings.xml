@@ -24,9 +24,6 @@
     <string name="mokee_updater_title">Updater</string>
     <string name="mokee_extras_title">Extras</string>
 
-    <!-- Tips -->
-    <string name="tips_help_title">Tips &amp; Help</string>
-
     <!-- WebSite -->
     <string name="mokee_website_title">MoKee Website</string>
     <string name="mokee_website_summary">Visit the official website</string>
