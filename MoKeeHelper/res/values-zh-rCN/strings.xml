@@ -24,9 +24,6 @@
     <string name="mokee_updater_title">系统更新</string>
     <string name="mokee_extras_title">扩展组件</string>
 
-    <!-- Tips -->
-    <string name="tips_help_title">使用问答</string>
-
     <!-- WebSite -->
     <string name="mokee_website_title">项目首页</string>
     <string name="mokee_website_summary">访问魔趣开源计划主页获得最新资讯</string>
